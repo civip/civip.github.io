@@ -1,4 +1,4 @@
-# Center of Inteligent Vission and Image Processing
+# Center of Intelligent Vission and Image Processing
 __*Shiraz University*__
 
 
