@@ -1,5 +1,5 @@
 # Center of Inteligent Vission and Image Processing
-## Shiraz University
+__*Shiraz University*__
 
 
-__ UNDER CONSTRUCTION __
+__UNDER CONSTRUCTION__
